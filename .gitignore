@@ -1,0 +1,6 @@
+# Cualquier html en cualquier carpeta y subcarpeta
+*.html
+
+# Excluye la carpeta output
+output/
+
