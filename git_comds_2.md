@@ -8,10 +8,9 @@ Una version mas completa, que incluye info del repo
 
 git config --list
 
+Comando para ver los ultimos commits - En una sola linea -
 
-Para ver los ultimos commits
-
-git log -10
+git log --oneline -10
 
 
 
