@@ -9,3 +9,9 @@ Despues tengo que asociarlo al repo romoto
 git remote add origin URL_DEL_REPO_EN_GITHUB
 
 
+Para hacer un check del remoto seteado
+
+git remote -v
+
+
+
